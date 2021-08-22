@@ -1,0 +1,12 @@
+.sidebar {
+    box-sizing: border-box;
+    margin-left: 94px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1025px) {
+    .sidebar {
+        margin-left: 34px;
+    }
+  }

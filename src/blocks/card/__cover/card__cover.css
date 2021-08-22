@@ -1,0 +1,8 @@
+.card__cover {
+  width: 240px;
+  height: 300px;
+  background: #b7c09d;
+  padding-left: 24px;
+  padding-top: 24px;
+  box-sizing: border-box;
+}

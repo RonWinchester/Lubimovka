@@ -1,0 +1,8 @@
+.searchbar__component {
+  max-width: 740px;
+  height: 32px;
+  display: flex;
+  margin-top: 80px;
+  flex-wrap: wrap;
+}
+

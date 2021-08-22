@@ -1,0 +1,10 @@
+.App {
+  max-width: 1320px;
+  min-width: 320px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-left: 118px;
+  padding-right: 118px;
+  display: flex;
+  flex-direction: column;
+}
