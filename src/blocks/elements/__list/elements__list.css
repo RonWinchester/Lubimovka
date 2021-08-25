@@ -8,8 +8,14 @@
   grid-template-columns: repeat(auto-fit, 240px);
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
   .elements__list {
     justify-content: center;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .elements__list {
+    grid-template-columns: repeat(auto-fit, 200px);
   }
 }

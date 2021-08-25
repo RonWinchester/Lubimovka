@@ -5,3 +5,9 @@
   line-height: 28px;
   margin: 0;
 }
+
+@media screen and (max-width: 560px) {
+  .sidebar__subtitle {
+    font-size: 15px;
+  }
+}

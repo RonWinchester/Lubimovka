@@ -8,3 +8,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 560px) {
+  .searchbar__title {
+    font-size: 40px;
+  }
+}

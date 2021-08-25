@@ -6,3 +6,9 @@
   padding-top: 24px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 460px) {
+  .card__cover {
+    width: 100%;
+  }
+}

@@ -8,3 +8,10 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 560px) {
+  .App {
+      padding-left: 34px;
+      padding-right: 34px;
+  }
+}

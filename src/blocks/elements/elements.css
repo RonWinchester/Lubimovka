@@ -4,3 +4,9 @@
   padding: 0px;
   width: 72%;
 }
+
+@media screen and (max-width: 460px) {
+  .elements {
+    width: 60%;
+  }
+}
