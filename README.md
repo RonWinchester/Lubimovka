@@ -1,26 +1,19 @@
-# Полугрудов Роман  
+# Тестовое задание: Поиск по карточкам
 
 Ссылка на проект - https://lubimovka-six.vercel.app/
  
-## Getting Started with Create React App
+## Перед запуском
+1. Установите `node js`
+2. Установите зависимости командой `npm i`
 
-In the project directory, you can run:
+## Запуск проекта
+1. Разверните проект командой `npm run start`
 
-### `npm start`
+## Технологии
+1. React.JS
+2. HTML
+3. CSS (flex, grid)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Функционал
+Поиск по загруженным карточкам. Фильтрация. Фамилии авторов фильтруются по алфавиту.
 
